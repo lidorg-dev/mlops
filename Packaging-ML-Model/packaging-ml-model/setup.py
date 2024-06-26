@@ -8,9 +8,9 @@ from setuptools import find_packages, setup
 # Metadata of package
 NAME = 'prediction_model'
 DESCRIPTION = 'Loan Prediction Model'
-URL = 'https://github.com/manifoldailearning'
-EMAIL = 'murthy@manifoldailearning.in'
-AUTHOR = 'Nachiketh Murthy'
+URL = 'https://github.com/lidorg-dev'
+EMAIL = 'lidorlg@gmail.com'
+AUTHOR = 'Lidor G'
 REQUIRES_PYTHON = '>=3.7.0'
 
 pwd = os.path.abspath(os.path.dirname(__file__))
